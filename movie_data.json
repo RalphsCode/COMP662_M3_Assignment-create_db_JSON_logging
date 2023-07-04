@@ -1,0 +1,26 @@
+{
+    "movie_1": {
+        "show_id": "1",
+        "title": "The Fun Factory",
+        "genre": "comedy",
+        "director": "Crystal Ball",
+        "release_year": "2001",
+        "description": "Kids take over a school and turn it into the world's first Fun Factory."
+    },
+    "movie_2": {
+        "show_id": "2",
+        "title": "Living Oceans",
+        "genre": "documentary",
+        "director": "Jacques Cousteau",
+        "release_year": "2011",
+        "description": "The Oceans of the world are the great unknown. In this movie we explore these vast sea worlds, and make unexpected discoveries!"
+    },
+    "movie_3": {
+        "show_id": "3",
+        "title": "Space Combat II",
+        "genre": "science_fiction",
+        "director": "James Cameron",
+        "release_year": "2021",
+        "description": "A mission to Mars gets lost, and ends up in an hostile alien world."
+    }
+}
